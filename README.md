@@ -4,7 +4,7 @@
 - Google Colab
 - Python Programming Language
 
-### I have passed the Courses: [Sertificate](#https://shorturl.at/hlnpZ)
+### I have passed the Courses: [Sertificate] -> *#https://shorturl.at/hlnpZ*
 
 
 
